@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<head>
+    <style>
+        * {
+            color: white;
+        }
+        h1 {
+            color: red;
+            background-color: blue;
+            text-align: center;
+        }
+        #hcontrast {
+            text-align: center;
+            background-color: black;
+            color: blue;
+        }
+
+        .center {
+            text-align: center;
+        }
+
+        p.large {
+            font-size: 200%;
+        }
+    </style>
+    <title>Basis CSS.</title>
+</head>
