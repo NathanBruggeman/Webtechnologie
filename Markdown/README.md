@@ -2,7 +2,7 @@
 
 **Vakken**
 
-![Lessenrooster](Lessenrooster.png)
+!(Lessenrooster.png)
 
 1.  Project Ontwerpen; 
 2.  Electronica 2; 
