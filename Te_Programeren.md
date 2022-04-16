@@ -10,6 +10,6 @@ SQL        => nog te maken
 
 Ajax       => nog te maken
 
-Markdown   => klaar met fout
+Markdown   => klaar
 
 Bootstrap  => klaar
