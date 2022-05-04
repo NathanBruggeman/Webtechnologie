@@ -2,9 +2,9 @@ HTML       => klaar
 
 CSS        => klaar
 
-JavaScript => klaar met fout
+JavaScript => klaar
 
-PHP        => nog te maken
+PHP        => klaar met fout
 
 SQL        => nog te maken
 
