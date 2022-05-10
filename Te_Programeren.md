@@ -6,9 +6,9 @@ JavaScript => klaar
 
 PHP        => klaar met fout
 
-SQL        => nog te maken
+SQL        => klaar maar niet zeker
 
-Ajax       => nog te maken
+Ajax       => klaar met fout
 
 Markdown   => klaar
 
