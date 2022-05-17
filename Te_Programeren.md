@@ -2,7 +2,7 @@ HTML       => klaar
 
 CSS        => klaar
 
-JavaScript => klaar
+JavaScript => klaar met fout
 
 PHP        => klaar met fout
 
