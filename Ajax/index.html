@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title></title>
+        
+        <script src="https://code.jquery.com/jquery-3.6.0.min.js"
+                integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
+                crossorigin="anonymous"></script>
+        <script>
+            $(document).ready(function(){
+                $("#btn").click(function(){
+                    $("#test").load("data.txt", {
+                        Naam: "Nathan",
+                        Achternaam: "Bruggeman"
+                    },  function() {
+                        alert("Hallo!");
+                    });
+                });
+            });
+        </script>
+    </head>
+    <body>
+       <div id="test">
+           <p>Dit is de eerste content!</p>
+       </div>
+       <button id="btn">Klik om te veranderen!</button>
+    </body>
+</html>
