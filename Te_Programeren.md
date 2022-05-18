@@ -2,13 +2,13 @@ HTML       => klaar
 
 CSS        => klaar
 
-JavaScript => klaar met fout
+JavaScript => klaar
 
-PHP        => klaar met fout
+PHP        => klaar
 
-SQL        => klaar maar niet zeker
+SQL        => fout
 
-Ajax       => klaar met fout
+Ajax       => klaar
 
 Markdown   => klaar
 
