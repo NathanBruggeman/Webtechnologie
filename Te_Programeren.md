@@ -6,7 +6,7 @@ JavaScript => klaar
 
 PHP        => klaar
 
-SQL        => fout
+SQL        => fout vragen!
 
 Ajax       => klaar
 
